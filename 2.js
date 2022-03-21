@@ -18,6 +18,7 @@ function getAlphaNumericAlphabet(){
 
 module.exports = getAlphaNumericAlphabet
 
+
 /*
 You can run tests for this code to check your answers by running `npm run test-2`
 */
